@@ -1,0 +1,9 @@
+{
+  "name": "NeoSign Digital",
+  "description": "Plataforma profissional para assinatura digital de contratos. Envie, assine e gerencie documentos com validade jurídica e segurança.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
